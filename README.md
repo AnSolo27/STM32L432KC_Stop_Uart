@@ -1,4 +1,4 @@
-# Low power sleep Uart
+# Stop 1 Mode with Uart
 In this example Nucleo-L432KC board is used.
 After 5 seconds MCU goes to stop mode.
 
